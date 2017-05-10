@@ -7,7 +7,7 @@
   "name": "demo",
   "version": "1.0.0",
   "description": "It's a demo",
-  "main": "hello.js",
+  "main": "server.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
