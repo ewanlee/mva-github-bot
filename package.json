@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "dotenv": "^4.0.0",
+    "restify": "^4.3.0"
+  },
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "It's a demo",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ewan",
+  "license": "Apache-2.0"
+}
